@@ -25,4 +25,3 @@ The following are the details for these command line options:
 -p print    sets the amount of items to print from the final sorted arrays.
 -H          prints usage for the program
 
-A scan reveals no substantial bugs in the program
